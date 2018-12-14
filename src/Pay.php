@@ -5,6 +5,6 @@ class Pay
 {
 	public static function index()
 	{
-		echo 'hello world';
+		echo 'hello world 111';
 	}
 }
