@@ -1,0 +1,19 @@
+{
+    "name": "wxchange/wxchange",
+    "description": "test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "change",
+            "email": "lchange369@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "wxchange\\":"src/"
+        }
+    }
+}
